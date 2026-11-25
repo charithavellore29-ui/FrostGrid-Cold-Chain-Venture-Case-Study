@@ -29,6 +29,19 @@ Proposed Venture / Business Strategy Case Study
 
 **Note:** FrostGrid is an academic venture concept, not an operating company or an executed merger between Blue Star and Delhivery.
 
+
+## Project Files
+
+- `FrostGrid_Pitch_Deck_.pptx` — Presentation covering the proposed cold-chain venture, its flagship offering, strategic partnerships and business concept.
+
+## Presentation Focus
+
+- FrostGrid Temperature Guarantee
+- Blue Star refrigeration technology
+- Delhivery logistics partnership concept
+- IoT-enabled temperature monitoring
+- Cold-chain business strategy
+
 ## Author
 Charitha R Vellore
 
